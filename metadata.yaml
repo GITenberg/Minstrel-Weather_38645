@@ -1,0 +1,37 @@
+_repo: Minstrel-Weather_38645
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Balmer, Clinton
+    gutenberg_agent_id: '36128'
+    url: http://www.gutenberg.org/2009/agents/36128
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Storm, Marian
+    birthdate: 1891
+    deathdate: 1975
+    gutenberg_agent_id: '39369'
+    url: http://www.gutenberg.org/2009/agents/39369
+description: ''
+gutenberg_issued: '2012-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38645'
+  lccn: '20020910'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Natural history -- Outdoor books'
+- !lcc 'QH'
+tableOfContents: Faces of Janus -- A woodland valentine -- Ways of the March hare
+  -- The April moment -- The crest of spring -- Hay harvest time -- The month of yellow
+  flowers -- The mood of August -- Summer pauses -- When the oaks wear damson -- November
+  traits -- The Christmas woods -- Landscapes seen in dreams -- Hiding places -- The
+  play of leaves -- The brown frontier -- Far altars.
+title: Minstrel Weather
+url: http://www.gutenberg.org/ebooks/38645
